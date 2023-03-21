@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beta.itzfm.me/](https://beta.itzfm.me/)
 
-- 💬 Ask me about **Developer Server (Minecraft)**
+- 💬 Ask me about **Minecraft Server**
 
 - 📫 How to reach me **contact@itzfm.me**
 
